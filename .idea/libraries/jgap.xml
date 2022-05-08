@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="jgap">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/jgap_3.6.3_full/jgap.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jgap_3.6.3_full/lib/log4j.jar!/" />
+      <root url="jar://$USER_HOME$/Downloads/jgap_3.6.3_full/lib/commons-lang-2.1.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
